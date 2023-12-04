@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.fake_store_mvu",
+    "sha256_cert_fingerprints":
+    ["C3:41:09:C4:F5:6B:71:1C:97:B1:64:2E:12:5D:03:47:7B:49:C8:75:8C:D4:C3:8B:ED:22:66:93:44:C2:DF:2B"]
+  }
+}]
